@@ -1,6 +1,6 @@
+# Level 2-Task 2
 # TAI-IP-Weather Forecast web Application
-
-A simple and responsive weather application that fetches real-time weather data using an API.
+Built a simple and responsive weather application that fetches real-time weather data using an API.
 # Features
 - Search weather by city name
 - Displays temperature in Celsius
