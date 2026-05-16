@@ -12,4 +12,4 @@ Built a simple and responsive weather application that fetches real-time weather
 - CSS
 - JavaScript
 - Weather API (OpenWeatherMap)
-#WebDevelopment #JavaScript #Frontend #API #Internship #Projects #TechAIIntern
+
